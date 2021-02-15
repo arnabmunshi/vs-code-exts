@@ -7,3 +7,4 @@
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
